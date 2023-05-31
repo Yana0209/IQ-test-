@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Desktop\курсова\IQ тест\IQ тест\bin\Debug\IQ тест.exe.config
+C:\Users\User\OneDrive\Desktop\курсова\IQ тест\IQ тест\bin\Debug\IQ тест.exe
+C:\Users\User\OneDrive\Desktop\курсова\IQ тест\IQ тест\bin\Debug\IQ тест.pdb
+C:\Users\User\OneDrive\Desktop\курсова\IQ тест\IQ тест\obj\Debug\IQ тест.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\курсова\IQ тест\IQ тест\obj\Debug\IQ тест.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\курсова\IQ тест\IQ тест\obj\Debug\IQ_тест.Form1.resources
+C:\Users\User\OneDrive\Desktop\курсова\IQ тест\IQ тест\obj\Debug\IQ_тест.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\курсова\IQ тест\IQ тест\obj\Debug\IQ тест.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\курсова\IQ тест\IQ тест\obj\Debug\IQ тест.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\курсова\IQ тест\IQ тест\obj\Debug\IQ тест.exe
+C:\Users\User\OneDrive\Desktop\курсова\IQ тест\IQ тест\obj\Debug\IQ тест.pdb
